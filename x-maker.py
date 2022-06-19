@@ -1,6 +1,6 @@
-word="emilio eine nervensäge"
+word="windoof"
 
-length=100
+length=20
 pos=0
 
 while length/2>=pos:
